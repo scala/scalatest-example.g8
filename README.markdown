@@ -1,4 +1,4 @@
-A [Giter8][g8] template for trying out scalatest!
+A [Giter8][g8] template for trying out scalatest.
 
 Template license
 ----------------
