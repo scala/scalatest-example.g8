@@ -1,4 +1,3 @@
-// give the user a nice default project!
 lazy val root = (project in file(".")).
   settings(
     inThisBuild(List(
@@ -7,3 +6,6 @@ lazy val root = (project in file(".")).
     )),
     name := "scalatest-example"
   )
+
+libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.1"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
