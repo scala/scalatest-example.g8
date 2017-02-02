@@ -1,9 +1,8 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for trying out scalatest!
 
 Template license
 ----------------
-Written in <YEAR> by <AUTHOR NAME> <AUTHOR E-MAIL ADDRESS>
-[other author/contributor lines as appropriate]
+Written in 2017 by the Scala Center
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
