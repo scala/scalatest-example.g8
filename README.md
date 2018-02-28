@@ -1,4 +1,4 @@
-A [Giter8][g8] template for trying out scalatest.
+A [Giter8][g8] template for trying out ScalaTest, used in the [Getting Started with Scala guide](https://docs.scala-lang.org/getting-started-sbt-track/testing-scala-with-sbt-on-the-command-line.html).
 
 Template license
 ----------------
