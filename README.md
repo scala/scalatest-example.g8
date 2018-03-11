@@ -2,7 +2,7 @@ A [Giter8][g8] template for trying out ScalaTest, used in the [Getting Started w
 
 Template license
 ----------------
-Written in 2017 by the Scala Center
+Written in 2017-2018 by the Scala Center
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
