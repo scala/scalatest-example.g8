@@ -3,9 +3,9 @@ A [Giter8][g8] template for trying out ScalaTest, used in the [Getting Started w
 ##### To create the project using this template:
  - Run this in the sbt console: 
  `sbt new scala/scalatest-example.g8`
- - When prompted for name, enter the name of the artifact 
- you would like to use
-    - Ex. name [hello]:  
+ - When prompted for name, enter any name you want
+    - For example : 'hello'  
+      ....  
       Template applied in ./hello
     
 Template license
