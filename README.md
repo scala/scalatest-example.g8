@@ -1,5 +1,13 @@
 A [Giter8][g8] template for trying out ScalaTest, used in the [Getting Started with Scala guide](https://docs.scala-lang.org/getting-started-sbt-track/testing-scala-with-sbt-on-the-command-line.html).
 
+##### To create the project using this template:
+ - Run this in the sbt console: 
+ `sbt new scala/scalatest-example.g8`
+ - When prompted for name, enter any name you want
+    - For example : 'hello'  
+      ....  
+      Template applied in ./hello
+    
 Template license
 ----------------
 Written in 2017-2018 by the Scala Center
