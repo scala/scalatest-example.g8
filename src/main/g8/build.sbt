@@ -1,10 +1,10 @@
 lazy val root = (project in file(".")).
   settings(
     inThisBuild(List(
-      organization := "com.example",
-      scalaVersion := "2.13.6"
+      organization := "$package$",
+      scalaVersion := "$scala-version$"
     )),
-    name := "scalatest-example"
+    name := "$name;format="norm"$"
   )
 
-libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.9" % Test
+libraryDependencies += "org.scalatest" %% "scalatest" % "$scalatest-version$" % Test
