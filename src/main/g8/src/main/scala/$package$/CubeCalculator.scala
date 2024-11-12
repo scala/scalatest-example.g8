@@ -1,5 +1,4 @@
-object CubeCalculator extends App {
-  def cube(x: Int) = {
+object CubeCalculator {
+  def cube(x: Int): Int =
     x * x * x
-  }
 }
