@@ -4,7 +4,7 @@ A [Giter8][g8] template for trying out ScalaTest, used in the [Getting Started w
  - Run this in the sbt console:
  `sbt new scala/scalatest-example.g8`
  - When prompted for name, enter any name you want
-    - For example : 'hello
+    - For example : 'hello'
       ....
       Template applied in ./hello
 
