@@ -1,10 +1,11 @@
-name: Scala CLA
-on: [pull_request]
+name: "Check Scala CLA"
+on:
+  pull_request:
 jobs:
-  check:
+  cla-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - run: ./project/scripts/check-cla.sh
-      env:
-        AUTHOR: ${{ github.event.pull_request.user.login }}
+      - name: Verify CLA
+        uses: scala/cla-checker@v1
+        with:
+          author: ${{ github.event.pull_request.user.login }}
